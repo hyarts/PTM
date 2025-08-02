@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: '뽀모도로 타이머',
-      home: HomeScreen(),
+      home: FocusTimerApp(),
     );
   }
 }
